@@ -6,7 +6,7 @@ The operation point voltage is then read through analog pin of the microcontrole
 However, the analog signal is raw so to say. Therefore, The signal needs conversion to digital one before we manipulate it with our to-be embedded code.
 AD converter on our microcontroler can do the conversion quite cleverly. The integrated AD converter descretizes 0-5v analog(continuos time) value in to the range of 
 0-1023(descret time) values and convert the reading to the nearest value in the range. 
-Last but not least, This digital value is again converted to 0-5v format before sending it to the 16x2 LCD display. This task will be handled through coding. further information about LED including operation voltage at different forward voltage and the required amount of ressistance will also be displayed on the LCD. 
+Last but not least, This digital value is again converted to 0-5v format before sending it to the 16x2 LCD display. This task will be handled through coding. further information about LED including operation voltage at different forward voltage and the required amount of resistance will also be displayed on the LCD. 
 the circuit also contains a potentiometer which will be used to control the contrast of the LCD. 
 
 Required hardware Components:
