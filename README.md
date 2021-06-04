@@ -7,14 +7,15 @@ However, the analog signal is raw so to say. Therefore, The signal needs convers
 AD converter on our microcontroler can do the conversion quite cleverly. The integrated AD converter descretizes 0-5v analog(continuos time) value in to the range of 
 0-1023(descret time) values and convert the reading to the nearest value in the range. 
 Last but not least, This digital value is again converted to 0-5v format before sending it to the 16x2 LCD display. This task will be handled through coding.
+the circuit also contains a potentiometer which will be used to control the contrast of the LCD. 
 
 Required hardware Components:
 
         1. Arduino Uno
-				2. Interfacing Cable
-				3. Breadboard
-				4. 150 Ohm, 220 Ohm Resistors
-				5. 10K potentiometer
-				6. Wires 19x
-				7. LED
-				8. 16x2 LCD Display
+	2. Interfacing Cable
+	3. Breadboard
+	4. 150 Ohm, 220 Ohm Resistors
+	5. 10K potentiometer
+	6. Wires 19x
+	7. LED
+	8. 16x2 LCD Display
