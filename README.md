@@ -11,7 +11,7 @@ the circuit also contains a potentiometer which will be used to control the cont
 
 Required hardware Components:
 
-        1. Arduino Uno
+    1. Arduino Uno
 	2. Interfacing Cable
 	3. Breadboard
 	4. 150 Ohm, 220 Ohm Resistors
