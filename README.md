@@ -14,7 +14,7 @@ Required hardware Components:
     1. Arduino Uno
 	2. Interfacing (power) Cable
 	3. Breadboard
-	4. 150 Ohm, 220 Ohm Resistors
+	4. Resistors: 150 Ohm x 1, 220 Ohm x 1 
 	5. 10K potentiometer
 	6. Wires 19x
 	7. LED
