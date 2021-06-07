@@ -15,7 +15,7 @@ Required hardware Components:
 	2. Interfacing (power) Cable
 	3. Breadboard
 	4. Resistors: 150 Ohm x 1, 220 Ohm x 1 
-	5. 10K potentiometer
+	5. 10K Ohm potentiometer
 	6. Wires 19x
 	7. LED
 	8. 16x2 LCD Display
